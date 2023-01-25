@@ -1,0 +1,2 @@
+config driven UI :- Dynamic UI are known as config driven UI
+suppose offers are there in some cities in swiggy, while they aren't available in Kolkata, so we don't show carousel in Kolkata.
